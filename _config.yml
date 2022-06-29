@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Austin Kocher's Blog"
+title: "Austin Kocher"
+description: "This is a short tag line."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
@@ -21,15 +21,14 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  Austin:
+    name: Austin Kocher
+    display_name: Austin Kocher    
+    avatar: 'assets/images/avatar.jpg'
+    email: ackocher@syr.edu
+    web: https://www.austinkocher.com
+    twitter: https://twitter.com/ackocher
+    description: "Dr. Austin Kocher is an Assistant Research Professor in the Newhouse School of Public Communication and a researcher with the Transactional Research Access Clearinghouse (TRAC), a research institute at Syracuse University that uses Freedom of Information Act requests to study the federal government."
 
 # Plugins
 plugins:
