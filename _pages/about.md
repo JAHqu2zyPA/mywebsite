@@ -1,34 +1,15 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Austin
 permalink: /about
-comments: true
+comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+<p>Austin Kocher is an <a href="https://newhouse.syr.edu/people/austin-kocher">Assistant Research Professor</a> in the Newhouse School of Public Communication and a researcher with the <a href="https://trac.syr.edu">Transactional Research Access Clearinghouse</a> (TRAC), a research institute at <a href="https://www.syracuse.edu">Syracuse University</a> that uses Freedom of Information Act requests to study the federal government. Key areas of Kocher’s current research at TRAC include mapping and analyzing large federal data sets related to immigration detention, enforcement, and deportation, the immigration court system, and trends within the federal criminal and civil courts.</p>
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Kocher’s research interests focus on the political and legal geographies of racialized policing practices, local immigration enforcement, and the immigration court system. His ongoing work interrogates the legal rationalities and everyday practices of producing “illegalized” immigrants through the US immigration court system, and he uses cartographic, ethnographic, and quantitative methodologies to examine how the immigration courts link up with local immigration enforcement on the ground. His work also examines the strategies and impact of grassroots immigrant rights and worker rights movements that contest deportation as a tool of social and labor control.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<p>Kocher is currently past president of the <a href="https://www.legalgeography.com">Legal Geography Specialty Group </a>of the AAG, Secretary of the <a href="https://msaag.aag.org">Middle States Division of the Association of American Geographers</a>, and is active in the Law and Society Association.</p>
 
 </div>
 </div>
