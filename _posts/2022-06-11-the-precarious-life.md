@@ -27,4 +27,5 @@ Spoiler alert: migrants were not deterred for many reasons, not the least of whi
 
 As a consequence, border deaths have been significant. Last year, DHS recorded that 650 migrants died crossing the US-Mexico border, although the Missing Migrants Project, which tracks migrant deaths globally, reports that number to be nearly double that at 1,248. Ryan Devereaux addresses CBP’s alleged undercounting in an article “The Border Patrol Is Systemically Failing to Count Migrant Deaths.“ For more information about border deaths in the Arizona region, the Arizona OpenGIS Initiative for Deceased Migrants maps these deaths and makes the data available online.
 
-assets/images/2022_06_IOMMissingMigrants.png
+
+![2022_06_IOMMissingMigrants]({{ site.baseurl }}/assets/images/2022_06_IOMMissingMigrants.png)

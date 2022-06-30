@@ -16,7 +16,7 @@ Just a quick explanation on each of these, although please understand that, in r
 
 + **Unlawful reentry** basically means that someone has already been ordered deported and tries to cross again. Simple enough.
 
-+ **Harboring means** helping to facilitate undocumented migration. As I found in a previous study (available here)[https://trac.syr.edu/tracreports/crim/603/], harboring law is quite expansive.
++ **Harboring means** helping to facilitate undocumented migration. As I found in a previous study [available here](https://trac.syr.edu/tracreports/crim/603/), harboring law is quite expansive.
 
 Because TRAC obtains detailed data on all prosecutions in federal court each month, we are able to dive into specific charges and look at the number of prosecutions over time. What we found was that the number of prosecutions fluctuates considerably from month to month and year to year based more (it seems) on policy decisions and border enforcement practices than simply the number of people who might potentially be prosecuted. Of course, this is hardly news to any criminologist who knows that this is how most prosecutions work, but it’s still relevant for immigration researchers and journalists to understand this with data to back it up.
 

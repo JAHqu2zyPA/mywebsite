@@ -8,7 +8,7 @@ image: https://images.squarespace-cdn.com/content/v1/54d42535e4b08c8065db7426/16
 featured: false # Set false if you do not want it in featured section
 toc: false # Set False if you dont want to set table of content 
 ---
-As mandated by Congress, Immigration and Customs Enforcement (ICE) is required to publish data on immigrant detention for the public. The agency releases this data as a spreadsheet about every two weeks on their website (here)[https://www.ice.gov/detain/detention-management]. 
+As mandated by Congress, Immigration and Customs Enforcement (ICE) is required to publish data on immigrant detention for the public. The agency releases this data as a spreadsheet about every two weeks on their website [here](https://www.ice.gov/detain/detention-management). 
 
 But don’t trust it without carefully validating it first. That’s because ICE has released faulty numbers several times over the past year. We spotted this at TRAC because we treat validation as an essential part of our work to provide the public with insight into immigration enforcement policies and practices. I wish the agency would take validation this seriously.
 
