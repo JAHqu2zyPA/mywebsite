@@ -15,6 +15,7 @@ comments: false
 | :---      			|    :----   	|		 :--- |					 |
 | ![CNN](/assets/images/cnn.jpeg)   | Catherine E. Shoichet & Rosa Flores  | [These cell phones can't make calls or access the internet. ICE is using them to track migrants](https://www.cnn.com/2022/06/05/us/border-migrants-cell-phones-cec/index.html) | June 5, 2022 |
 
+![CNN](/assets/images/cnn.jpeg)
 
 <table>
   <tr>
