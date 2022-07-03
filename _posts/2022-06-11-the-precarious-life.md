@@ -6,10 +6,10 @@ tags: [immigration, prosecutions]
 categories: [Commentary]
 image: assets/images/2022_06_IOMMissingMigrants.png
 featured: true
-toc: false
+toc: true
 ---
 
-In two back-to-back tragedies, [51 migrants were found dead](https://www.cbsnews.com/news/san-antonio-migrants-texas-tractor-trailer-dead-injured/) in a truck in Texas on Monday, the largest loss of migrant life in a single event in recent memory, just days after 23 migrants were found dead along the border of Melilla, a Spanish enclave in Northern Africa.
+In two back-to-back tragedies, [51 migrants were found dead](https://www.cbsnews.com/news/san-antonio-migrants-texas-tractor-trailer-dead-injured/){:target="_blank"} in a truck in Texas on Monday, the largest loss of migrant life in a single event in recent memory, just days after 23 migrants were found dead along the border of Melilla, a Spanish enclave in Northern Africa.
 
 > On-the-ground reporting and further empirical investigations will tell us more in the days and weeks to come about the concrete circumstances surrounding this loss of life. But an observation that many of my colleagues have already been making is that these two losses of life are neither unique nor disconnected.
 
