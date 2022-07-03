@@ -11,9 +11,9 @@ toc: false
 
 In two back-to-back tragedies, [51 migrants were found dead](https://www.cbsnews.com/news/san-antonio-migrants-texas-tractor-trailer-dead-injured/) in a truck in Texas on Monday, the largest loss of migrant life in a single event in recent memory, just days after 23 migrants were found dead along the border of Melilla, a Spanish enclave in Northern Africa.
 
-On-the-ground reporting and further empirical investigations will tell us more in the days and weeks to come about the concrete circumstances surrounding this loss of life. But an observation that many of my colleagues have already been making is that these two losses of life are neither unique nor disconnected.
+> On-the-ground reporting and further empirical investigations will tell us more in the days and weeks to come about the concrete circumstances surrounding this loss of life. But an observation that many of my colleagues have already been making is that these two losses of life are neither unique nor disconnected.
 
-To the contrary, border securitization, which has ramped up globally in the years following fall of the Berlin Wall, is predicated upon a certain minimal and unavoidable amount of migrant death. Not only is this not an unforeseeable consequence, migrant death has very often been intentionally mobilized as a migration deterrent by both North American and European governments.
+>> To the contrary, border securitization, which has ramped up globally in the years following fall of the Berlin Wall, is predicated upon a certain minimal and unavoidable amount of migrant death. Not only is this not an unforeseeable consequence, migrant death has very often been intentionally mobilized as a migration deterrent by both North American and European governments.
 
 For instance, Luna Vives (@lunavives), a fellow geographer, recently wrote about Spain’s attempts to dismantle the NGO search and rescue operations networks, thereby “causing preventable deaths and disappearances at sea”. An accessible article can be read here at Border Criminologies (@BorderCrim), and is based on an academic article of the same name.
 

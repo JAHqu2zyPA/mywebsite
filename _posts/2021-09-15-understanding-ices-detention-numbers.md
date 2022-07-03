@@ -10,7 +10,7 @@ toc: false # Set False if you dont want to set table of content
 ---
 ICE releases (detention statistics)[https://www.ice.gov/detain/detention-management] on a bi-weekly basis. For the past year, we at TRAC have been systematically collecting that data to provide further insight into the immigration system.
 
-One immigration detention statistic that can be confusing is the number of people in detention versus the number of new people put into detention called “book-ins.” Using a running total of the average daily detention population per month and the total number of monthly book-ins, we can see how these two numbers give slightly different but interrelated perspectives on detention.
+> One immigration detention statistic that can be confusing is the number of people in detention versus the number of new people put into detention called “book-ins.” Using a running total of the average daily detention population per month and the total number of monthly book-ins, we can see how these two numbers give slightly different but interrelated perspectives on detention.
 
 ![ICE]({{ site.baseurl }}/assets/images/ice1.jpeg)
 
