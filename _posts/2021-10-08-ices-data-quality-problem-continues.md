@@ -7,6 +7,7 @@ categories: [Research Findings]
 image: https://images.squarespace-cdn.com/content/v1/54d42535e4b08c8065db7426/1633716005462-3L4CGU7636ZQY66S7EMU/Social+Media+Images.001.jpeg?format=750w  
 featured: false # Set false if you do not want it in featured section
 toc: false # Set False if you dont want to set table of content 
+published: false
 ---
 As mandated by Congress, Immigration and Customs Enforcement (ICE) is required to publish data on immigrant detention for the public. The agency releases this data as a spreadsheet about every two weeks on their website [here](https://www.ice.gov/detain/detention-management). 
 

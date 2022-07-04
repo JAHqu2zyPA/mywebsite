@@ -5,12 +5,20 @@ author: Austin
 # tags: [comma, seperated, tags]
 categories: [Research Findings]
 image: assets/images/ice2.jpeg
-featured: true # Set false if you do not want it in featured section
-toc: false # Set False if you dont want to set table of content 
+featured: yes # Set false if you do not want it in featured section
+toc: yes # Set False if you dont want to set table of content 
+published: true
+food: pizza
 ---
 ICE releases (detention statistics)[https://www.ice.gov/detain/detention-management] on a bi-weekly basis. For the past year, we at TRAC have been systematically collecting that data to provide further insight into the immigration system.
 
 > One immigration detention statistic that can be confusing is the number of people in detention versus the number of new people put into detention called “book-ins.” Using a running total of the average daily detention population per month and the total number of monthly book-ins, we can see how these two numbers give slightly different but interrelated perspectives on detention.
+
+<h1>{{ page.food }}</h1>
+
+{{ page.id }}
+
+{{ page.next }}
 
 ![ICE]({{ site.baseurl }}/assets/images/ice1.jpeg)
 

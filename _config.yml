@@ -1,7 +1,7 @@
 # Site
-name: "Austin Kocher's Blog"
+name: "Austin Kocher"
 title: "Austin Kocher"
-description: "This is a short tag line."
+description: "Geography is everywhere."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
@@ -20,7 +20,7 @@ authors:
     email: ackocher@syr.edu
     web: https://www.austinkocher.com
     twitter: https://twitter.com/ackocher
-    description: "Dr. Austin Kocher is an Assistant Research Professor in the Newhouse School of Public Communication and a researcher with the Transactional Research Access Clearinghouse (TRAC), a research institute at Syracuse University that uses Freedom of Information Act requests to study the federal government."
+    description: "Dr. Austin Kocher is an Assistant Research Professor in the Newhouse School of Public Communication ."
 
 # Plugins
 plugins:
