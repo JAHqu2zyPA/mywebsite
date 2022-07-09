@@ -12,3 +12,9 @@ published: false
 ### Data & Validation Notes
 
 This is where we note anything we learned about how the data works, what to do, what not to do, etc., as well as notes about validation (since the two often go together). This can be very “functional”, doesn’t have to be complete sentences necessarily though I often like to write out my thoughts in a “journal” style.
+
+I am wondering if Github will allow me to edit in Devonthink, then push to Gihub for my website. Let’s see what happens.
+
+```
+This is some code.
+```
